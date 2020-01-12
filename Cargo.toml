@@ -1,5 +1,6 @@
 [package]
 name = "roogle-cloud"
+description = "Google Cloud client in async Rust"
 version = "0.1.0"
 authors = ["Masaki Hara <ackie.h.gmai@gmail.com>"]
 edition = "2018"
